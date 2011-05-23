@@ -1,0 +1,12 @@
+name: Help System
+main: com.elitecraft.cronikkk.help.Help
+version: 0.2b
+description: Advanced teleportation.
+author: Cronik
+commands:
+    help:
+        description: Performs Help Function.
+        aliases:
+        usage: |
+                  /<command> <subcommand> <player>
+                  Example: /<command> homes
